@@ -170,6 +170,7 @@ wiki pages.  Also please include the phrase to trigger on as well for your skill
 | :construction:      |	[OpenHAB](../../wiki/SKILL-Openhab)			                        | Add Openhab support to Mycroft |
 | :construction:      | [Read article](../../wiki/SKILL-read-article)                                   | Scrapes text from online articles and reads them to you.   |
 | :construction:      | [Sentiment analysis](../../wiki/SKILL-sentiment-analysis)                       | Sentiment analysis              |
+| :construction:      | [Spotify skill](../../wiki/SKILL-spotify)                       | Spotify player |
 | :construction:      | [The Cows Lists](https://github.com/CarstenAgerskov/skill-the-cows-lists#readme)| Interact with "Remember The Milk" list and task management ecosystem.<br>```"add milk to my grocery list"```    |
 | :construction:      | [Wallpaper](../../wiki/SKILL-wallpaper)                                         | Download wallpapers from reddit and changes randomly         |
 | :construction:      | [Whats Nearby](https://github.com/AIIX/whats-nearby#readme) | Search for nearby Places for Mycroft on Plasma (Search For Resturants, Hotels, Parks etc)<br>```"search for nearby bars/pubs/parks/hospitals/etc"``` |
